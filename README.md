@@ -155,22 +155,22 @@ Immediate actions taken:
 
 ## 📚 Lessons Learned
 
-Temporary access configurations must have expiration policies or mandatory cleanup protocols.
+- Temporary access configurations must have expiration policies or mandatory cleanup protocols.
 
-Guest accounts should be disabled and monitored — even on test systems.
+- Guest accounts should be disabled and monitored — even on test systems.
 
-Continuous logon monitoring paired with automated correlation can catch attacks before lateral movement begins.
+- Continuous logon monitoring paired with automated correlation can catch attacks before lateral movement begins.
 
 
 ## 💡 Tools Used
 
-Microsoft Defender for Endpoint (EDR)
+- Microsoft Defender for Endpoint (EDR)
 
-Azure Log Analytics / Kusto Query Language (KQL)
+- Azure Log Analytics / Kusto Query Language (KQL)
 
-Windows Firewall
+- Windows Firewall
 
-Internal asset management and forensic tools
+- Internal asset management and forensic tools
 
 
 ## 🔐 Outcome
